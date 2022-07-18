@@ -108,7 +108,64 @@
     - Do not promise a minimum rate of return.
   - No omission.
   - No plagiarism - violation of the requirement to give acknowledgment to the sources used.
+    - recognized public sources and well known factual information.
+    - Always mention the author of the information along with the source.
   - Work completed for an employer is owned by employer.
 - Procedures for compliance
   - Prepare the list of services provided / summary of qualification and experience.
-  
+  - Maintain the records 
+  - Make only factual presentations.
+  - Verify outside information.
+  - Implement a plagiarism policy.
+    - Do not use excerpts, charts or graphs without proper acknowledgment.
+    - Do not copy spreadsheets without obtaining the permission of their owner.
+    - Do not use secondary research without attribution.
+
+### 1D - Misconduct
+
+- Particular personality traits or behaviour are highly inappropriate in a professional context.
+- Members and candidate must not engage in any professional conduct involving dishonesty, fraud, deceit or commit any act that reflects adversely on their professional reputation, integrity or competence.
+- Guidance
+  - Any activities which affects adversely members ablities to perform their duties.
+- procedures for compliance
+  - Adopt a code of ethics.
+  - Have a list of violation + disciplinary actions.
+  - Conduct background checks.
+
+## Integrity of capital markets
+
+### IIA - Material non-public information.
+
+- Members and candidate who possess material non-public information that could affect the value of an investment must not act or cause other to act on information.
+- Guidance
+  - Material information : its disclosure could have an impact on the investment decision-making process.
+  - Non-Public information :  Information which is yet to be released to the public
+  -  Mosaic Theory
+     -  Public information
+        -  Material 
+        -  Non-Material
+     - Non-Public information 
+       - Material
+       - Non-Material
+  - Industry experts advice is allowed in research.
+  - Information from social media is allowed to a certain degree.
+  - Investment research report is considered non-public.
+- Procedures for compliance
+  - Achieve public dissemination.
+  - Issue press release.
+  - Adopt disclosure and compliance procedures.
+  - Appropriate interdepartmental communications.
+  - Physicall separation of departments.
+  - Implement firewall elements.
+  - Place personnel trading limitations.
+  - Distribute guidelines to all employees.
+
+### IIB - Market Manipulation
+
+- Members must not engage in practices that distort prices or artificially infalte trading volume with the intent to mislead market participants.
+- Guidance
+  - Information based manipulation
+    - spreading false rumors 
+    - Sharing misleading information.
+  - Transaction based manipulation.
+    - Distorting securities fair prices through certain actions. e.g. pump and dump strategy
