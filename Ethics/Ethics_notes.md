@@ -169,3 +169,96 @@
     - Sharing misleading information.
   - Transaction based manipulation.
     - Distorting securities fair prices through certain actions. e.g. pump and dump strategy
+
+## Duties to clients 
+
+### IIIA - Loyalty, Prudence and care
+
+- Members have duty of loyalty to their clients and must act with reasonable care and exercise prudent judgment. 
+- Also must act for benefit of their clients and place their clients interest before their employer.
+- Guidance 
+  - Understanding the application of loyalty and care.
+    - Fiduciary duty = enhanced trust.
+  - Identify the actual investment client
+  - Developing the clients portfolio.
+  - Following the guiding documents.
+  - Soft commission policies 
+    - choosing the broker is an example
+  - Proxy voting policies
+    - voting on behalf of clients in any scenario.
+- Procedures for compliance
+  - Provide regular performance updates to clients.
+  - clients approval may be necessary if I'm hesitating to take a decision.
+  - Maintain policies and procedures related to clients trades
+
+### III-B - Fair dealing
+
+- Members must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment actions or engaging in other professional activities.
+- Do not discriminate or favor any clients, provide fair quality & timing of services
+- Fairly is not equal to Equally
+- Guidance
+  - Investment recommendations
+  - Investment actions : portfolio construction and rebalancing.
+    - Not required to give the same level of service to all clients.
+    - Required to treat all clients fairly.
+
+- Procedures for compliance
+  - Develop adequate policies and procedures
+  - Maintain a list of clients and thier holdings
+  - Establish a systematic account review 
+    - No preferential treatment of clients
+    - investement actions that meet clients objectives
+  - Disclose trade allocation procedures 
+  - Disclose levels of service 
+
+### III-C - Suitability
+
+- When in advisory relationship with client, we must
+  - Resonable inquiry into a clients investment experience, risk and return objective and financial constraints prior ro making any investment recommendations. and must reassess this information regularly.
+  - Determin that an investment is suitable to the clients financial situation and consistent with clients written objectives, mandates and constraints before making an investment recommendation or action.
+  - Judge the suitablility of investment in the context of clients portfolio.
+- When in managing client portfolio
+  - Responsible for specific mandate, strategy or style they must make only investment recommendations or take only actions that are consistent with stated objective.
+
+- Guidance
+  - Make a resonable inquiry into clients interest
+  - Develop and update an investment policy statement (IPS)
+  - Judge from a total portfolio perspective.
+  - Adress unsolicited trade requests
+  - Manage funds to an index or mandate
+
+- Procedures for compliance
+  - Develop and update an investment policy statement (IPS)
+  - Suitability test policies
+
+### III-D - Performance Presentation 
+
+- When communicating investment performance information, members must make reasonable efforts to ensure that it is fair, accurate and complete.
+- Guidance
+  - Credible performance information
+    - Fair : Do not promise a minimum rate of return
+    - Accurate : Do not omit or missate performance records
+    - Complete : Full investment performance history should be provided 
+
+- Procedures for compliance
+  - Apply GIPS : Global Investment Performance Standards
+    - Compliance without applying GIPS is also possible
+
+### III-E Preservation of Confidentiality
+
+- Members must keep information about current, former and prospective clients confidential unless
+  - Information concerns illegal activities on the part of the client or prospective client
+  - Disclosure is required by law
+  - Client permits disclousre of information
+
+- Guidance
+  - Status of the client is irrelevant
+  - Comply with applicable laws and regulations 
+  - Consider electronic information security
+  - Cooperate in any professional conduct program investigations 
+
+- Procedures for compliance
+  - Be careful with wide discussion
+  - Adopt and follow policies and procedures on electronic data storage
+  - Recommend such policies and procedures
+
